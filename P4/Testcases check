@@ -1,0 +1,19 @@
+BinaryTree      -> passed
+BubbleSort      -> passed
+Factorial       -> passed
+LinearSearch	-> passed
+LinkedList      -> failed
+MoreThan4       -> passed
+MustSpill	    -> passed
+QuickSort	    -> passed
+TreeVisitor     -> passed
+1
+2
+3
+17
+18
+19
+20
+21
+22
+23
